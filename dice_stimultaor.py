@@ -1,7 +1,7 @@
 import random
 
 def roll_dice():
-    """Simulates rolling a dice and returns the result."""
+    /*Simulates rolling a dice and returns the result.*/
     return random.randint(1, 6)
 
 def main():
